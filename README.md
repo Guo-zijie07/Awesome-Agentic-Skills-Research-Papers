@@ -1,4 +1,4 @@
-# Awesome Agentic Skills Research
+# Awesome Agentic Skills Research Papers
 
 > A curated academic reading list on agentic skills: reusable procedural artifacts, skill libraries, routing, acquisition, evaluation, and governance for LLM-based agents.
 
@@ -135,4 +135,3 @@ Inclusion checklist:
 - The paper treats skills, reusable procedures, tool-using routines, executable behaviors, skill libraries, or skill routing as a main contribution.
 - The link points to a primary source when possible: arXiv, ACL Anthology, OpenReview, publisher page, project page, or official repository.
 - The note explains the agentic-skill relevance, not just the general LLM-agent relevance.
-
