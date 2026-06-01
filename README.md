@@ -66,11 +66,17 @@ Not included by default:
 | 2025 | CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution | [arXiv](https://arxiv.org/abs/2512.23880) | Studies cumulative skill creation and evolution for AI-assisted scientific workflows. |
 | 2026 | SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning | [arXiv](https://arxiv.org/abs/2602.08234) | Builds a hierarchical SkillBank from experience and co-evolves skill library and policy. |
 | 2026 | Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis | [arXiv](https://arxiv.org/abs/2602.03279) | Uses modular reasoning skills to synthesize verifiable training problems. |
+| 2026 | AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution | [arXiv](https://arxiv.org/abs/2603.01145) | Derives, maintains, and reuses skills from dialogue and interaction traces. |
+| 2026 | Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills | [arXiv](https://arxiv.org/abs/2603.25158) | Distills trajectory-local lessons into transferable agent skills. |
 | 2026 | Skill-SD: Skill-Conditioned Self-Distillation for Multi-turn LLM Agents | [arXiv](https://arxiv.org/abs/2604.10674) | Converts agent trajectories into dynamic training-only skill supervision. |
 | 2026 | SkillX: Automatically Constructing Skill Knowledge Bases for Agents | [arXiv](https://arxiv.org/abs/2604.04804) | Builds plug-and-play hierarchical skill knowledge bases from trajectories. |
+| 2026 | MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction | [arXiv](https://arxiv.org/abs/2605.08670) | Automatically induces generalizable skills from successful trajectories with quality guarantees. |
 | 2026 | Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning | [arXiv](https://arxiv.org/abs/2605.06130) | Jointly optimizes skill selection, utilization, and distillation from a shared task-outcome signal. |
 | 2026 | SkillGraph: Skill-Augmented Reinforcement Learning for Agents via Evolving Skill Graphs | [arXiv](https://arxiv.org/abs/2605.12039) | Represents skills as graph nodes with prerequisite, enhancement, and co-occurrence edges. |
 | 2026 | SkillMaster: Toward Autonomous Skill Mastery in LLM Agents | [arXiv](https://arxiv.org/abs/2605.08693) | Trains agents to create, refine, and select their own accumulated skills. |
+| 2026 | SkillEvolver: Skill Learning as a Meta-Skill | [arXiv](https://arxiv.org/abs/2605.10500) | Treats skill learning itself as a reusable meta-skill that authors, deploys, and refines skills. |
+| 2026 | SkillGen: Verified Inference-Time Agent Skill Synthesis | [arXiv](https://arxiv.org/abs/2605.10999) | Synthesizes auditable skills from success and failure trajectories, then verifies net intervention effect. |
+| 2026 | SkillGrad: Optimizing Agent Skills Like Gradient Descent | [arXiv](https://arxiv.org/abs/2605.27760) | Optimizes skill packages with trajectory-level loss evidence and text-based gradients. |
 | 2026 | COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation | [arXiv](https://arxiv.org/abs/2605.31264) | Distills person- or role-grounded traces into inspectable, correctable skill packages. |
 
 ## Skill Retrieval, Routing, and Context Construction
@@ -96,18 +102,16 @@ Not included by default:
 | Year | Paper | Links | Why it matters |
 | --- | --- | --- | --- |
 | 2026 | CUA-Skill: Develop Skills for Computer Using Agent | [arXiv](https://arxiv.org/abs/2601.21123) | Builds a structured skill base for computer-using agents on Windows applications. |
+| 2026 | SkillForge: Forging Domain-Specific, Self-Evolving Agent Skills in Cloud Technical Support | [arXiv](https://arxiv.org/abs/2604.08618) | Creates and refines domain-specific enterprise support skills from knowledge bases and operational failures. |
 | 2026 | PANDO: Efficient Multimodal AI Agents via Online Skill Distillation | [arXiv](https://arxiv.org/abs/2605.24785) | Online skill distillation for multimodal web agents with efficiency metrics. |
-| 2026 | SkillMOO: Multi-Objective Optimization of Agent Skills for Software Engineering | [arXiv](https://arxiv.org/abs/2604.09297) | Software-engineering-specific skill-bundle search and cost optimization. |
-| 2024 | Agentic Skill Discovery | [arXiv](https://arxiv.org/abs/2405.15019) | Robotics-oriented skill discovery driven by LLM task proposals and RL. |
-| 2023 | Voyager: An Open-Ended Embodied Agent with Large Language Models | [arXiv](https://arxiv.org/abs/2305.16291) | Embodied open-world skill library with executable code skills. |
 
 ## Security and Governance
 
-| Year | Paper | Links | Why it matters |
-| --- | --- | --- | --- |
-| 2026 | SoK: Agentic Skills -- Beyond Tool Use in LLM Agents | [arXiv](https://arxiv.org/abs/2602.20867) | Discusses supply-chain risk, prompt injection through skills, malicious skill payloads, and trust-tiered execution. |
-| 2026 | Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward | [arXiv](https://arxiv.org/abs/2602.12430) | Proposes a Skill Trust and Lifecycle Governance Framework. |
-| 2026 | How Well Do Agentic Skills Work in the Wild | [arXiv](https://arxiv.org/abs/2604.04323) | Shows the fragility of skill gains under realistic retrieval and refinement conditions. |
+No standalone security-only paper is listed yet. For security and governance angles in the current list, see:
+
+- [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](https://arxiv.org/abs/2602.20867) - supply-chain risk, prompt injection through skills, malicious skill payloads, and trust-tiered execution.
+- [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://arxiv.org/abs/2602.12430) - Skill Trust and Lifecycle Governance Framework.
+- [How Well Do Agentic Skills Work in the Wild](https://arxiv.org/abs/2604.04323) - fragility of skill gains under realistic retrieval and refinement conditions.
 
 ## Related Awesome Lists
 
