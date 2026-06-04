@@ -2,8 +2,12 @@
 
 > A curated academic reading list on agentic skills: reusable procedural artifacts, skill libraries, routing, acquisition, evaluation, and governance for LLM-based agents.
 
-Last checked: 2026-06-01.
+Last checked: 2026-06-04.
 
+## Paper Discovery Resources
+
+- [AAAI 2026 Abstract Index](https://hongsong-wang.github.io/AAAI2026_Abstract/) — An index of AAAI 2026 paper abstracts.
+  
 ## Scope
 
 This repository is research-first. It is intentionally different from implementation catalogs such as `awesome-agent-skills` repositories that list ready-to-install `SKILL.md` packages.
