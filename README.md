@@ -2,11 +2,9 @@
 
 > A curated academic reading list on agentic skills: reusable procedural artifacts, skill libraries, routing, acquisition, evaluation, and governance for LLM-based agents.
 
-Last checked: 2026-06-04.
+Last checked: 2026-06-06.
 
-## Paper Discovery Resources
-
-- [AAAI 2026 Abstract Index](https://hongsong-wang.github.io/AAAI2026_Abstract/) — An index of AAAI 2026 paper abstracts.
+- [AAAI 2026 Abstract Index](https://hongsong-wang.github.io/AAAI2026_Abstract/) 
   
 ## Scope
 
@@ -26,15 +24,19 @@ Not included by default:
 
 ## Contents
 
-- [Surveys and Position Papers](#surveys-and-position-papers)
-- [Foundations and Precursors](#foundations-and-precursors)
-- [Skill Acquisition and Self-Improvement](#skill-acquisition-and-self-improvement)
-- [Skill Retrieval, Routing, and Context Construction](#skill-retrieval-routing-and-context-construction)
-- [Benchmarks and Evaluation](#benchmarks-and-evaluation)
-- [Application-Specific Skill Systems](#application-specific-skill-systems)
-- [Security and Governance](#security-and-governance)
-- [Related Awesome Lists](#related-awesome-lists)
-- [Contributing](#contributing)
+- [Awesome Agentic Skills Research Papers](#awesome-agentic-skills-research-papers)
+  - [Scope](#scope)
+  - [Contents](#contents)
+  - [Surveys and Position Papers](#surveys-and-position-papers)
+  - [Foundations and Precursors](#foundations-and-precursors)
+  - [Skill Acquisition and Self-Improvement](#skill-acquisition-and-self-improvement)
+  - [Skill Retrieval, Routing, and Context Construction](#skill-retrieval-routing-and-context-construction)
+  - [Benchmarks and Evaluation](#benchmarks-and-evaluation)
+  - [Application-Specific Skill Systems](#application-specific-skill-systems)
+  - [Security and Governance](#security-and-governance)
+  - [Related Awesome Lists](#related-awesome-lists)
+  - [Contributing](#contributing)
+  - [Recent Skill Creation / Generation Papers to Integrate](#recent-skill-creation--generation-papers-to-integrate)
 
 ## Surveys and Position Papers
 
@@ -143,3 +145,13 @@ Inclusion checklist:
 - The paper treats skills, reusable procedures, tool-using routines, executable behaviors, skill libraries, or skill routing as a main contribution.
 - The link points to a primary source when possible: arXiv, ACL Anthology, OpenReview, publisher page, project page, or official repository.
 - The note explains the agentic-skill relevance, not just the general LLM-agent relevance.
+
+## Recent Skill Creation / Generation Papers to Integrate
+
+| Year | Paper | Links | Why it matters |
+| --- | --- | --- | --- |
+| 2026 | SkillGenBench: Benchmarking Skill Generation Pipelines for LLM Agents | [arXiv](https://arxiv.org/abs/2605.18693) | Treats skill generation itself as the benchmark target, covering task-conditioned and task-agnostic generation from repository- and document-grounded sources. |
+| 2026 | MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation | [arXiv](https://arxiv.org/abs/2605.27366) | Frames skills as long-lived assets in a creation, memory, management, evaluation, and refinement lifecycle. |
+| 2026 | SkillLearnBench: Benchmarking Continual Learning Methods for Agent Skill Generation on Real-World Tasks | [arXiv](https://arxiv.org/abs/2604.20087) | Evaluates continual skill generation methods across skill quality, execution trajectory, and task outcome, including skill-creator-style baselines. |
+| 2026 | SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision | [arXiv](https://arxiv.org/abs/2606.01139) | Refines imperfect LLM-authored skills using execution traces, repair principles, re-execution, and empirical utility selection. |
+| 2026 | SkillForge: Forging Domain-Specific, Self-Evolving Agent Skills in Cloud Technical Support | [arXiv](https://arxiv.org/abs/2604.08618) | Uses a domain-contextualized Skill Creator plus failure analysis and optimization loops for enterprise support skills; already listed above under application-specific systems, but directly relevant to skill creation. |
