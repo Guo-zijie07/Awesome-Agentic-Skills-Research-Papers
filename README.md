@@ -1,10 +1,8 @@
 # Awesome Agentic Skills Research Papers
 
-> A curated academic reading list on agentic skills: reusable procedural artifacts, skill libraries, routing, acquisition, evaluation, and governance for LLM-based agents.
+> A curated academic reading list on agentic skills.
 
 Last checked: 2026-06-06.
-
-- [AAAI 2026 Abstract Index](https://hongsong-wang.github.io/AAAI2026_Abstract/) 
   
 ## Scope
 
