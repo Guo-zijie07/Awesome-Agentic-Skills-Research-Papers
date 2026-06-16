@@ -92,6 +92,8 @@ Not included by default:
 | 2026 | SkillGen: Verified Inference-Time Agent Skill Synthesis      | [arXiv](https://arxiv.org/abs/2605.10999) | Synthesizes auditable skills from success and failure trajectories, then verifies net intervention effect. |
 | 2026 | SkillGrad: Optimizing Agent Skills Like Gradient Descent     | [arXiv](https://arxiv.org/abs/2605.27760) | Optimizes skill packages with trajectory-level loss evidence and text-based gradients. |
 | 2026 | COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation | [arXiv](https://arxiv.org/abs/2605.31264) | Distills person- or role-grounded traces into inspectable, correctable skill packages. |
+| 2026 | OpenSkill: Open-World Self-Evolution for LLM Agents | [arXiv](https://arxiv.org/abs/2606.06741) | Builds skills and verification signals from scratch in open worlds with no target-task supervision; demonstrates strong transferability across models. |
+
 
 ### Skill Retrieval, Routing, and Context Construction
 
