@@ -77,7 +77,6 @@ Not included by default:
 | ---- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
 | 2024 | Agentic Skill Discovery                                      | [arXiv](https://arxiv.org/abs/2405.15019) | LLM-driven discovery of robotic skills from zero initial skill library. |
 | 2025 | Reinforcement Learning for Self-Improving Agent with Skill Library | [arXiv](https://arxiv.org/abs/2512.17102) | Introduces SAGE, using Skill Augmented GRPO and sequential rollouts to accumulate reusable skills. |
-| 2025 | CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution | [arXiv](https://arxiv.org/abs/2512.23880) | Studies cumulative skill creation and evolution for AI-assisted scientific workflows. |
 | 2026 | SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning | [arXiv](https://arxiv.org/abs/2602.08234) | Builds a hierarchical SkillBank from experience and co-evolves skill library and policy. |
 | 2026 | Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis | [arXiv](https://arxiv.org/abs/2602.03279) | Uses modular reasoning skills to synthesize verifiable training problems. |
 | 2026 | AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution | [arXiv](https://arxiv.org/abs/2603.01145) | Derives, maintains, and reuses skills from dialogue and interaction traces. |
@@ -94,6 +93,7 @@ Not included by default:
 | 2026 | COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation | [arXiv](https://arxiv.org/abs/2605.31264) | Distills person- or role-grounded traces into inspectable, correctable skill packages. |
 | 2026 | OpenSkill: Open-World Self-Evolution for LLM Agents | [arXiv](https://arxiv.org/abs/2606.06741) | Builds skills and verification signals from scratch in open worlds with no target-task supervision; demonstrates strong transferability across models. |
 | 2026 | Ctx2Skill: From Context to Skills: Can Language Models Learn from Context Skillfully? | [arXiv](https://arxiv.org/abs/2604.27660) | Self-evolving multi-agent self-play framework that discovers, refines, and selects context-specific skills without human supervision. |
+| 2026 | SoftSkill: Behavioral Compression for Contextual Adaptation | [arXiv](https://arxiv.org/abs/2606.20333) |Compresses long textual skills into a compact continuous prefix, enabling efficient behavioral adaptation and significant context reduction while keeping the base model frozen. |
 
 
 ### Skill Retrieval, Routing, and Context Construction
