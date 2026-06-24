@@ -77,6 +77,7 @@ Not included by default:
 | ---- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
 | 2024 | Agentic Skill Discovery                                      | [arXiv](https://arxiv.org/abs/2405.15019) | LLM-driven discovery of robotic skills from zero initial skill library. |
 | 2025 | Reinforcement Learning for Self-Improving Agent with Skill Library | [arXiv](https://arxiv.org/abs/2512.17102) | Introduces SAGE, using Skill Augmented GRPO and sequential rollouts to accumulate reusable skills. |
+| 2025 | CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution | [arXiv](https://arxiv.org/abs/2512.23880) | Studies cumulative skill creation and evolution for AI-assisted scientific workflows. |
 | 2026 | SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning | [arXiv](https://arxiv.org/abs/2602.08234) | Builds a hierarchical SkillBank from experience and co-evolves skill library and policy. |
 | 2026 | Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis | [arXiv](https://arxiv.org/abs/2602.03279) | Uses modular reasoning skills to synthesize verifiable training problems. |
 | 2026 | AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution | [arXiv](https://arxiv.org/abs/2603.01145) | Derives, maintains, and reuses skills from dialogue and interaction traces. |
